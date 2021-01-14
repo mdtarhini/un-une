@@ -64,7 +64,7 @@ const App = () => {
 
   return (
     <div className={`${darkTheme ? "dark" : ""}`}>
-      <div className="h-screen overflow-auto bg-gray-100 dark:bg-black pb-20">
+      <div className="h-screen overflow-auto bg-gray-100 dark:bg-black pb-16">
         <BrowserRouter>
           <Route
             path="/"
