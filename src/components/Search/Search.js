@@ -140,7 +140,7 @@ const Search = (props) => {
   return (
     <main>
       <div className="mt-10 mx-3  md:mx-6 lg:mx-20 xl:mx-44">
-        <p className="text-xl dark:text-gray-100">
+        <p className="text-lg md:text-xl dark:text-gray-100">
           <span className="font-bold">Feminine</span>, or{" "}
           <span className="font-bold">masculine</span>? That is the question you
           often ask yourself as a French learner. There are some rules, but
